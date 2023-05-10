@@ -8,7 +8,7 @@ h1{
 h3{
   font-size: 40px;
 }
-section{
+section {
   display: flex;
 }
 .half-width{
@@ -18,13 +18,17 @@ section{
 .half-width img{
   width: 100%;
 }
+
 .orange{
   color: orange;
 }
-p {
+.color-2023{
+  color: aquamarine ;
+}
+p{
   font-size: 20px;
 }
-#space{
+#space {
   line-height: 100px;
 }
 .button{
@@ -35,10 +39,57 @@ p {
   padding: 10px 40px;
   border-radius: 10px;
 }
-.pink-2023{
-  color: paleturquoise;
-}
-#paragraph{
+#my-mission{
   text-align: center;
-  font-size: 50px;
+}
+
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.right-side-text{
+  text-align: right;
+}
+.dream-big{
+    background-image: url(images/shape-6);
+    background-position: right;
+}
+.my-2023 {
+  color: crimson;
+}
+.mission{
+  text-align: center;
+}
+.oranged-2023{
+  color: orangered;
+}
+.corona{
+  text-align: center;
+}
+footer p{
+  text-align: center;
+}
+.my-mission-2023{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.kerpa{
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 20px;
+  border-radius: 10px;
+}
+#stay-focused{
+border-left: 7px;
+border-image: linearo-gradient (#09203F,#537895);
+border-image-slice: 1;
 }
